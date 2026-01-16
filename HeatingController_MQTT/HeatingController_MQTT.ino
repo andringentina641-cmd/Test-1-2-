@@ -3,7 +3,7 @@ Version 3.2 Written by Steff Eberle GBS St. Gallen August 20ieth 2025
 Clone by Daniel 2025/12/05
 
 Implementation for the Arduino Machine Control Board on the Portenta H7 M7core
-
+This is a demostration of Github
 The current version of this Temperature control unit is capable of:
 - controlling up to 3 Heating Cirquits
 - communicating with a MQTT Broker via Ethernet/Internet
